@@ -7,7 +7,7 @@ import re
 # Initialize the YouTube API client
 @st.cache_resource
 def youtube_client():
-    api_key = "AIzaSyCxUayEibCsSBXDlZ4c8n2dWb0Fo9AkG-8"
+    api_key = "YOUR_API_KEY"
     return build('youtube', 'v3', developerKey=api_key)
 
 # Function to extract channel ID from URL
