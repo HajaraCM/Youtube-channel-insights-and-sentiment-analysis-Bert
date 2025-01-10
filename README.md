@@ -2,6 +2,9 @@
 
 This repository provides tools to analyze YouTube channel insights and perform sentiment analysis on video comments using the BERT model. The project offers valuable metrics and sentiment insights to understand audience engagement better.
 
+### Sentiment Analysis
+https://github.com/user-attachments/assets/40beedff-8245-4571-a3ae-35176ea37e4b
+
 ## Features
 - Extract video and channel details such as views, likes, comments, total subscribers, and average comments.
 - Generate video detail and comment DataFrames for detailed analysis.
@@ -101,10 +104,6 @@ numpy
 - **Video Publishing Frequency:** Heatmap showing publishing trends by the day of the week.
 - **Channel Growth Over Time:** Line chart visualizing growth trends.
 - **Top and Least-Watched Videos:** Lists displaying key metrics for the most and least popular videos.
-
-
-### Sentiment Analysis
-
 
 ## Future Enhancements
 - Add support for multilingual sentiment analysis.
